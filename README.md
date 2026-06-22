@@ -93,12 +93,6 @@ Books  :https://onedrive.live.com/:x:/g/personal/c222190fa8927447/IQCMdqWcvGQdQr
 
 Quotes :https://onedrive.live.com/:x:/g/personal/C222190FA8927447/IQCFwqjSglPISJJhT2r6w1oEAdRD_sTf3N0-8ahZfy3xbDU?resid=C222190FA8927447!sd2a8c285538248c892614f6afac35a04&ithint=file%2Cxlsx&e=wgojOs&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMjIyMTkwZmE4OTI3NDQ3L0lRQ0Z3cWpTZ2xQSVNKSmhUMnI2dzFvRUFkUkRfc1RmM04wLThhaFpmeTN4YkRVP2U9d2dvak9z
 
-Dataset Sources:
-
-Books  :https://onedrive.live.com/:x:/g/personal/c222190fa8927447/IQCMdqWcvGQdQrEXSCfQw4ZMAf55AUCBdty-wXASPOQcWDI?rtime=EVqRXyrQ3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMjIyMTkwZmE4OTI3NDQ3L0lRQ01kcVdjdkdRZFFyRVhTQ2ZRdzRaTUFmNTVBVUNCZHR5LXdYQVNQT1FjV0RJP2U9MWs0c1Ew
-
-Quotes :https://onedrive.live.com/:x:/g/personal/C222190FA8927447/IQCFwqjSglPISJJhT2r6w1oEAdRD_sTf3N0-8ahZfy3xbDU?resid=C222190FA8927447!sd2a8c285538248c892614f6afac35a04&ithint=file%2Cxlsx&e=wgojOs&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMjIyMTkwZmE4OTI3NDQ3L0lRQ0Z3cWpTZ2xQSVNKSmhUMnI2dzFvRUFkUkRfc1RmM04wLThhaFpmeTN4YkRVP2U9d2dvak9z
-
 Connect and Follow
 
 GitHub   : https://github.com/RMpriya007/CodeAlpha_WebScraping
