@@ -1,98 +1,161 @@
+# CodeAlpha_WebScraping – Web Scraping Project
 
-CodeAlpha_WebScraping - Web Scraping Project
+## Internship Details
 
-Intern Details
+| Category    | Information                       |
+| ----------- | --------------------------------- |
+| Intern Name | Mohanapriya R                     |
+| Track       | Data Analytics                    |
+| Task        | Task 1 – Web Scraping             |
+| Internship  | CodeAlpha 2026                    |
+| Tools Used  | Python (Google Colab) & Octoparse |
 
-Name            : Mohanapriya R
-Track           : Data Analytics
-Task            : Task 1 - Web Scraping
-Internship      : CodeAlpha 2026
-Tools Used      : Python (Google Colab) + Octoparse
+---
 
-About This Project
+## About This Project
 
-This project demonstrates web scraping techniques to
-extract useful data from public websites and create
-custom datasets for further analysis. Two different
-websites were scraped using two different methods
-showing both coding and no code approaches.
+This project demonstrates web scraping techniques used to extract meaningful information from public websites and convert the extracted data into structured datasets for further analysis.
 
-Website 1 - Books to Scrape (Python)
+Two websites were scraped using two different approaches to showcase both **coding-based scraping** and **no-code scraping techniques**.
 
-Website   : https://books.toscrape.com
-Tool      : Python - Google Colab
-Libraries : BeautifulSoup, Requests, Pandas
-Data      : Book titles and prices
+---
 
-Website 2 - Quotes to Scrape (Octoparse)
+## Website 1 – Books to Scrape (Python)
 
-Website   : https://quotes.toscrape.com
-Tool      : Octoparse Visual Scraping Tool
-Data      : Famous quotes and author names
+**Website:**
+https://books.toscrape.com
 
-What I Did
+**Tool Used:**
+Python – Google Colab
 
-Books Scraping using Python:
+**Libraries Used:**
 
-Used Python programming language in Google Colab
-to write a web scraping script. The script uses
-BeautifulSoup library to parse HTML and extract
-book titles and prices from all pages of the
-Books to Scrape website automatically.
+* BeautifulSoup
+* Requests
+* Pandas
 
-Quotes Scraping using Octoparse:
+**Extracted Data:**
 
-Used Octoparse which is a visual no code web
-scraping tool to extract famous quotes and their
-author names from Quotes to Scrape website.
-This method requires no coding knowledge and
-is suitable for beginners in data collection.
+* Book Titles
+* Book Prices
 
-Key Results
+### Implementation
 
-Books Dataset
-Total Records   : 20+ plus books
-Columns         : Book Title, Price
-File            : BOOKS.xlsx
-Source          : https://onedrive.live.com/:x:/g/personal/c222190fa8927447/IQCMdqWcvGQdQrEXSCfQw4ZMAf55AUCBdty-wXASPOQcWDI?rtime=EVqRXyrQ3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMjIyMTkwZmE4OTI3NDQ3L0lRQ01kcVdjdkdRZFFyRVhTQ2ZRdzRaTUFmNTVBVUNCZHR5LXdYQVNQT1FjV0RJP2U9MWs0c1Ew
+A Python web scraping script was developed in Google Colab to collect book information automatically. BeautifulSoup was used to parse HTML content and extract book titles and prices efficiently.
 
-Quotes Dataset
-Total Records   : 20+ plus quotes
-Columns         : Quote Text, Author Name
-File            : Quotes_Scrape.xlsx
-Source          :https://onedrive.live.com/:x:/g/personal/C222190FA8927447/IQCFwqjSglPISJJhT2r6w1oEAdRD_sTf3N0-8ahZfy3xbDU?resid=C222190FA8927447!sd2a8c285538248c892614f6afac35a04&ithint=file%2Cxlsx&e=wgojOs&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMjIyMTkwZmE4OTI3NDQ3L0lRQ0Z3cWpTZ2xQSVNKSmhUMnI2dzFvRUFkUkRfc1RmM04wLThhaFpmeTN4YkRVP2U9d2dvak9z
+---
 
-Skills Demonstrated
+## Website 2 – Quotes to Scrape (Octoparse)
 
-Python web scraping using BeautifulSoup
-Visual scraping using Octoparse tool
-HTML structure understanding
-Data cleaning and formatting
-Excel and CSV file creation
+**Website:**
+https://quotes.toscrape.com
 
-Files in This Repository
+**Tool Used:**
+Octoparse – Visual Web Scraping Tool
 
-BOOKS.xlsx                   - Scraped books dataset
-Quotes To Scrape.csv.xlsx    - Scraped quotes dataset
-README.md                    - Project documentation
+**Extracted Data:**
 
-Colab Notebook
+* Quote Text
+* Author Name
 
-Link :https://colab.research.google.com/drive/1UJ5l3D9M_qKC6H-SZ0oDEBWM9rawZeqW
+### Implementation
 
-Tools and Technologies
+Octoparse was used as a visual no-code scraping platform to extract famous quotes and author details. This approach demonstrates automated data extraction without writing code.
 
-Tool 1    : Python in Google Colab
-Libraries : BeautifulSoup, Requests, Pandas
-Tool 2    : Octoparse Visual Web Scraping Tool
-Output    : Excel and CSV datasets
+---
 
-Dataset Sources:
+## Key Results
 
-Books  :https://onedrive.live.com/:x:/g/personal/c222190fa8927447/IQCMdqWcvGQdQrEXSCfQw4ZMAf55AUCBdty-wXASPOQcWDI?rtime=EVqRXyrQ3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMjIyMTkwZmE4OTI3NDQ3L0lRQ01kcVdjdkdRZFFyRVhTQ2ZRdzRaTUFmNTVBVUNCZHR5LXdYQVNQT1FjV0RJP2U9MWs0c1Ew
+### Books Dataset
 
-Quotes :https://onedrive.live.com/:x:/g/personal/C222190FA8927447/IQCFwqjSglPISJJhT2r6w1oEAdRD_sTf3N0-8ahZfy3xbDU?resid=C222190FA8927447!sd2a8c285538248c892614f6afac35a04&ithint=file%2Cxlsx&e=wgojOs&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9jMjIyMTkwZmE4OTI3NDQ3L0lRQ0Z3cWpTZ2xQSVNKSmhUMnI2dzFvRUFkUkRfc1RmM04wLThhaFpmeTN4YkRVP2U9d2dvak9z
+| Metric  | Details           |
+| ------- | ----------------- |
+| Records | 20+ Books         |
+| Columns | Book Title, Price |
+| File    | BOOKS.xlsx        |
 
-Connect and Follow
+Source:
+https://onedrive.live.com/:x:/g/personal/c222190fa8927447/IQCMdqWcvGQdQrEXSCfQw4ZMAf55AUCBdty-wXASPOQcWDI
 
-GitHub   : https://github.com/RMpriya007/CodeAlpha_WebScraping
+---
+
+### Quotes Dataset
+
+| Metric  | Details                 |
+| ------- | ----------------------- |
+| Records | 20+ Quotes              |
+| Columns | Quote Text, Author Name |
+| File    | Quotes_Scrape.xlsx      |
+
+Source:
+https://onedrive.live.com/:x:/g/personal/C222190FA8927447/IQCFwqjSglPISJJhT2r6w1oEAdRD_sTf3N0-8ahZfy3xbDU
+
+---
+
+## Skills Demonstrated
+
+* Python Web Scraping
+* HTML Parsing using BeautifulSoup
+* Visual Data Extraction using Octoparse
+* Data Collection and Formatting
+* Dataset Preparation
+* Excel and CSV File Creation
+
+---
+
+## Files in This Repository
+
+```text
+CodeAlpha_WebScraping/
+│
+├── BOOKS.xlsx
+├── Quotes_To_Scrape.csv.xlsx
+├── README.md
+```
+
+---
+
+## Colab Notebook
+
+Notebook Link:
+
+https://colab.research.google.com/drive/1UJ5l3D9M_qKC6H-SZ0oDEBWM9rawZeqW
+
+---
+
+## Tools and Technologies
+
+### Python – Google Colab
+
+Libraries:
+
+* Requests
+* BeautifulSoup
+* Pandas
+
+### Octoparse
+
+* Visual Web Scraping Tool
+
+### Output
+
+* Excel Dataset
+* CSV Dataset
+
+---
+
+## Dataset Sources
+
+**Books Dataset:**
+https://onedrive.live.com/:x:/g/personal/c222190fa8927447/IQCMdqWcvGQdQrEXSCfQw4ZMAf55AUCBdty-wXASPOQcWDI
+
+**Quotes Dataset:**
+https://onedrive.live.com/:x:/g/personal/C222190FA8927447/IQCFwqjSglPISJJhT2r6w1oEAdRD_sTf3N0-8ahZfy3xbDU
+
+---
+
+## Connect
+
+GitHub Repository:
+
+https://github.com/RMpriya007/CodeAlpha_WebScraping
